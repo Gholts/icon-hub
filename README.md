@@ -226,3 +226,20 @@ clash verge rev replacement tray icon collection
  <td align="center"><img src="origin-monochrome/tun.png?raw=true" width="50px"></td>
 </tr>
 </table>
+
+## Flat Colorful
+
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="flat-colorful/common.png?raw=true" width="50px"></td>
+ <td align="center"><img src="flat-colorful/sysproxy.png?raw=true" width="50px"></td>
+ <td align="center"><img src="flat-colorful/tun.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="flat-colorful/common.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="flat-colorful/sysproxy.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="flat-colorful/tun.ico?raw=true" width="50px"></td>
+</tr>
+</table>
